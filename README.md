@@ -1,2 +1,2 @@
-# Improving Single Xell ATAC-seq Profile Models using Attribution Priors
+# Improving Single Cell ATAC-seq Profile Models using Attribution Priors
 CS273B Project
