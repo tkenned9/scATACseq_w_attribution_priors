@@ -14,13 +14,13 @@ Interpret.ipynb: Runs Statistical tests on attribution scores from Deepshap, Cre
 
 dinuc_shuffle.py and viz_sequence.py: helper functions lifted directly from https://github.com/amtseng/fourier_attribution_priors
 
-data/ : Data (omitted in this repo)
+data/ : Data (omitted)
 
 runs/ : Tensorboard visualizations
 
-shap/ : Saved attribution scores
+shap/ : Saved attribution scores and profiles (ommitted because of large file size)
 
-trained_models/ : Trained models. Best ones were and exp5_epoch_17.pt (no prior) and exp6_prior_epoch_20.pt (prior). Both were run with same hyperparameters despite different experiment number in the filename.
+trained_models/ : Trained models. The best ones were and exp5_epoch_17.pt (no prior) and exp6_prior_epoch_20.pt (prior). Both were run with same hyperparameters despite different experiment number in the filename.
 
 
 
